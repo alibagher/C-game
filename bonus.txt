@@ -1,0 +1,4 @@
+Ctor Bonus:
+
+While we were in the designing phase, we were thinking of how to implement the Player class. We went above and beyond what this course has taught us and searched the internet and our own intellect as to how to implement. We came acrodd the singleton pattern. this design works perfect with the characteristics of the Player class, so we decided to use it.
+We learned and implemented a new design pattern and it was extremely helpful in organizing and keeping invariants of the program. more specifiaclly, the invariants that there is only one instance of a certain player in the game and that the players are globally reachable.
